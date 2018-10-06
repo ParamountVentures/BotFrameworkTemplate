@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotFrameworkTemplate", "BotFrameworkTemplate.csproj", "{CD6BF712-B3F2-4A55-9436-9CFC5E84A3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD6BF712-B3F2-4A55-9436-9CFC5E84A3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6BF712-B3F2-4A55-9436-9CFC5E84A3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6BF712-B3F2-4A55-9436-9CFC5E84A3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6BF712-B3F2-4A55-9436-9CFC5E84A3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿{
+  "name": "Build Builder Template",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:45738/api/messages",
+      "appId": "",
+      "appPassword": "",
+      "id": "1"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
