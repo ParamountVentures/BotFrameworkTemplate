@@ -8,7 +8,15 @@
       "appId": "",
       "appPassword": "",
       "id": "1"
-    }
+    },
+    {
+      "type": "endpoint",
+      "name": "production",
+      "endpoint": "https://stvdotbot.azurewebsites.net/api/messages",
+      "appId": "381e8b65-c814-4cbc-9397-f53b5536fbdd",
+      "appPassword": "zwcuHJMGN2[(smjRE2482+}",
+      "id": "2"
+    }    
   ],
   "padlock": "",
   "version": "2.0"

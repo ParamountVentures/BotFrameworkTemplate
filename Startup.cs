@@ -25,7 +25,7 @@ namespace BotFrameworkTemplate
         /// <seealso cref="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-2.1"/>
         public Startup(IHostingEnvironment env)
         {
-            _isProduction = env.IsProduction();
+            _isProduction = true;//env.IsProduction();
 
             var builder = new ConfigurationBuilder()
                 .SetBasePath(env.ContentRootPath)
